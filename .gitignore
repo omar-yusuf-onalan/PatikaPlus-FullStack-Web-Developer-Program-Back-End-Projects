@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Packages ###
+/mysql-connector-j-8.1.0.jar
+
+### Database ###
+/src/week06/JDBC/DBConfig.java
