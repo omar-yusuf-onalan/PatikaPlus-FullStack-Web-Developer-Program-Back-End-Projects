@@ -33,3 +33,4 @@ bin/
 
 ### Database ###
 /src/week06/JDBC/DBConfig.java
+/src/week07/PatikaClone/com/patikadev/Helper/Config.java
