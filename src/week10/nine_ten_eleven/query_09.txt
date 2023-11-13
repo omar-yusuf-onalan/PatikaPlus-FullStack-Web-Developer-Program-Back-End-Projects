@@ -1,0 +1,11 @@
+-- Question 1
+SELECT city.city, country.country FROM city
+INNER JOIN country ON country.country_id = city.country_id;
+
+-- Question 2
+SELECT customer.first_name, customer.last_name, payment.payment_id FROM customer
+INNER JOIN payment ON payment.customer_id = customer.customer_id;
+
+-- Question 3
+SELECT customer.first_name, customer.last_name, rental_id FROM customer
+INNER JOIN rental ON rental.customer_id = customer.customer_id;
