@@ -1,2 +1,2 @@
-This project will be a Vet Management System that will manage.
-The project will have its own repository, and I will share the link in this file.
+This project will be a Vet Management System that will manage customers, animals, vaccines, doctors, available dates, and reservations.
+The project will have its own repository: https://github.com/omar-yusuf-onalan/vet-management-system
